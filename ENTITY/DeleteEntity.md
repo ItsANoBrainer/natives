@@ -15,4 +15,4 @@ Deletes the specified entity, then sets the handle pointed to by the pointer to 
 
 ## Parameters
 
-- **entity**: The entity to delete.
+- **entity**: The entity ID of the entity to delete.
